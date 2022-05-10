@@ -23,3 +23,6 @@
 
 https://forms.gle/2W8PMokKmjmcRosF8
 
+## 関連情報
+
+-  機械学習システムセキュリティガイドラインのご紹介(2022/4/28): https://youtu.be/BL_H6RG5py8
