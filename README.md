@@ -1,4 +1,30 @@
-# 機械学習システム セキュリティガイドライン Version 1.02
+# Machine Learning System Security Guidelines Version 1.03
+
+The guidelines consist of the following documents.
+
+1. Machine Learning System Security Guidelines, Part I. "Security Measures Procedures"
+   - MLSystemSecurityGuidelines-main-E.pdf
+
+2. Machine Learning System Security Guidelines, Part II. "Risk Assessment"
+   - MLSystemSecurityGuidelines-RiskAssessment-E.pdf
+
+3. Machine Learning System Security Guidelines, Appendix. "Overview of Detection Techniques for Machine Learning-Specific Attacks"
+   - MLSystemSecurityGuidelines-Appendix-E.pdf
+
+4. Machine Learning System Security Guidelines, merged version of three documents
+   - MLSystemSecurityGuidelines-all-E.pdf
+
+The folder "util" contains the related tool.
+For more information, please see README-E.txt in this folder.
+
+- AI risk assessment tool
+
+## Update information
+
+- Version 1.03
+  - Translated version of Japanese version 1.03
+
+# 機械学習システム セキュリティガイドライン Version 1.03
 
 本ガイドラインは以下で構成されています。
 
@@ -21,21 +47,22 @@ README.txtを御覧ください。
 
 
 ## 更新履歴
+
+Version 1.03
+   - リスク分析編についてメンバシップ推測攻撃のシナリオM1とM7のツリーを修正
+   - バージョンは上がっていますが、本編と付録に変更はありません
+
 Version 1.02
-   - 機械学習システム セキュリティガイドライン「リスク分析編」
-     - リスク分析編のメンバーシップ推測攻撃のシナリオM7のツリーを修正
-     - リスク分析編について、シナリオM7の修正に伴い、質問の追加、条件の追加、アタックツリーの修正
-   - 本編と付録に変更はありません
+   - リスク分析編のメンバーシップ推測攻撃のシナリオM7のツリーを修正
+   - リスク分析編について、シナリオM7の修正に伴い、質問の追加、条件の追加、アタックツリーの修正
+   - バージョンは上がっていますが、本編と付録に変更はありません
 
 Version 1.0
    - 正式版として公開
      - リスク分析編に関連技術を追加（II-5.2）
      - AIリスク問診ツールのバグを修正
      - 章立て、参考文献、図番号、表番号等を3ガイド間で一意化
+
 Version 0.8
    - 新規公開
-
-## 関連情報
-
--  機械学習システムセキュリティガイドラインのご紹介(2022/4/28): https://youtu.be/BL_H6RG5py8
 
