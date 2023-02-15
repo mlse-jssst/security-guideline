@@ -24,21 +24,21 @@ For more information, please see README-E.txt in this folder.
 - Version 1.03
   - Translated version of Japanese version 1.03
 
-# 機械学習システム セキュリティガイドライン Version 1.03
+# 機械学習システム セキュリティガイドライン Version 1.03a
 
 本ガイドラインは以下で構成されています。
 
 1. 機械学習システム セキュリティガイドライン「本編」
-   - MLSystemSecurityGuideline-main.pdf
+   - MLSystemSecurityGuideline-main-ver1.03.pdf
 
 2. 機械学習システム セキュリティガイドライン「リスク分析編」
-   - MLSystemSecurityGuideline-RiskAnalysis.pdf
+   - MLSystemSecurityGuideline-RiskAnalysis-ver1.03.pdf
 
 3. 機械学習システム セキュリティガイドライン「付録：攻撃検知技術の概要」
-   - MLSystemSecurityGuideline-Appendix.pdf
+   - MLSystemSecurityGuideline-Appendix-ver1.03.pdf
 
 4. 機械学習システム セキュリティガイドライン全て
-   - MLSystemSecurityGuideline-all.pdf
+   - MLSystemSecurityGuideline-all-ver1.03.pdf
 
 また、utilフォルダには関連ツールとして以下を含めています。詳しくは
 README.txtを御覧ください。
@@ -46,9 +46,13 @@ README.txtを御覧ください。
 - AIリスク問診ツール
 
 
-## 更新履歴
+・更新履歴
 
-Version 1.03
+Version 1.03a(2022/12/26)
+   - 本編について参考文献の引用ミスを修正
+   - 3編の結合ドキュメントの索引の誤記を修正
+
+Version 1.03(2022/12/26)
    - リスク分析編についてメンバシップ推測攻撃のシナリオM1とM7のツリーを修正
    - バージョンは上がっていますが、本編と付録に変更はありません
 
