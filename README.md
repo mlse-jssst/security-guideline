@@ -1,4 +1,4 @@
-# Machine Learning System Security Guidelines Version 1.03
+# Machine Learning System Security Guidelines Version 1.03a
 
 The guidelines consist of the following documents.
 
@@ -21,52 +21,54 @@ For more information, please see README-E.txt in this folder.
 
 ## Update information
 
+- Version 1.03a
+  - Fixed some misreferences
+
 - Version 1.03
   - Translated version of Japanese version 1.03
 
-# 機械学習システム セキュリティガイドライン Version 1.03a
+# �@�B�w�K�V�X�e�� �Z�L�����e�B�K�C�h���C�� Version 1.03a
 
-本ガイドラインは以下で構成されています。
+�{�K�C�h���C���͈ȉ��ō\������Ă��܂��B
 
-1. 機械学習システム セキュリティガイドライン「本編」
+1. �@�B�w�K�V�X�e�� �Z�L�����e�B�K�C�h���C���u�{�ҁv
    - MLSystemSecurityGuideline-main-ver1.03.pdf
 
-2. 機械学習システム セキュリティガイドライン「リスク分析編」
+2. �@�B�w�K�V�X�e�� �Z�L�����e�B�K�C�h���C���u���X�N���͕ҁv
    - MLSystemSecurityGuideline-RiskAnalysis-ver1.03.pdf
 
-3. 機械学習システム セキュリティガイドライン「付録：攻撃検知技術の概要」
+3. �@�B�w�K�V�X�e�� �Z�L�����e�B�K�C�h���C���u�t�^�F�U�����m�Z�p�̊T�v�v
    - MLSystemSecurityGuideline-Appendix-ver1.03.pdf
 
-4. 機械学習システム セキュリティガイドライン全て
+4. �@�B�w�K�V�X�e�� �Z�L�����e�B�K�C�h���C���S��
    - MLSystemSecurityGuideline-all-ver1.03.pdf
 
-また、utilフォルダには関連ツールとして以下を含めています。詳しくは
-README.txtを御覧ください。
+�܂��Autil�t�H���_�ɂ͊֘A�c�[���Ƃ��Ĉȉ����܂߂Ă��܂��B�ڂ�����
+README.txt���䗗���������B
 
-- AIリスク問診ツール
+- AI���X�N��f�c�[��
 
 
-・更新履歴
+�E�X�V����
 
 Version 1.03a(2022/12/26)
-   - 本編について参考文献の引用ミスを修正
-   - 3編の結合ドキュメントの索引の誤記を修正
+   - �{�҂ɂ��ĎQ�l�����̈��p�~�X���C��
+   - 3�҂̌����h�L�������g�̍����̌�L���C��
 
 Version 1.03(2022/12/26)
-   - リスク分析編についてメンバシップ推測攻撃のシナリオM1とM7のツリーを修正
-   - バージョンは上がっていますが、本編と付録に変更はありません
+   - ���X�N���͕҂ɂ��ă����o�V�b�v�����U���̃V�i���IM1��M7�̃c���[���C��
+   - �o�[�W�����͏オ���Ă��܂����A�{�҂ƕt�^�ɕύX�͂���܂���
 
 Version 1.02
-   - リスク分析編のメンバーシップ推測攻撃のシナリオM7のツリーを修正
-   - リスク分析編について、シナリオM7の修正に伴い、質問の追加、条件の追加、アタックツリーの修正
-   - バージョンは上がっていますが、本編と付録に変更はありません
+   - ���X�N���͕҂̃����o�[�V�b�v�����U���̃V�i���IM7�̃c���[���C��
+   - ���X�N���͕҂ɂ��āA�V�i���IM7�̏C���ɔ����A����̒ǉ��A�����̒ǉ��A�A�^�b�N�c���[�̏C��
+   - �o�[�W�����͏オ���Ă��܂����A�{�҂ƕt�^�ɕύX�͂���܂���
 
 Version 1.0
-   - 正式版として公開
-     - リスク分析編に関連技術を追加（II-5.2）
-     - AIリスク問診ツールのバグを修正
-     - 章立て、参考文献、図番号、表番号等を3ガイド間で一意化
+   - �����łƂ��Č��J
+     - ���X�N���͕҂Ɋ֘A�Z�p��ǉ��iII-5.2�j
+     - AI���X�N��f�c�[���̃o�O���C��
+     - �͗��āA�Q�l�����A�}�ԍ��A�\�ԍ�����3�K�C�h�Ԃň�Ӊ�
 
 Version 0.8
-   - 新規公開
-
+   - �V�K���J
