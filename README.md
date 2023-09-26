@@ -27,7 +27,7 @@ For more information, please see README-E.txt in this folder.
 - Version 1.03
   - Translated version of Japanese version 1.03
 
-# 機械学習システム セキュリティガイドライン Version 2.00β
+# 機械学習システム セキュリティガイドライン Version 2.00
 
 本ガイドラインは以下で構成されています。
 
