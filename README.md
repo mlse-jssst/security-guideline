@@ -11,9 +11,6 @@ The guidelines consist of the following documents.
 3. Machine Learning System Security Guidelines, Appendix. "Overview of Detection Techniques for Machine Learning-Specific Attacks"
    - MLSystemSecurityGuidelines-Appendix-E.pdf
 
-4. Machine Learning System Security Guidelines, merged version of three documents
-   - MLSystemSecurityGuidelines-all-E.pdf
-
 The folder "util" contains the related tool.
 For more information, please see README-E.txt in this folder.
 
@@ -27,7 +24,7 @@ For more information, please see README-E.txt in this folder.
 - Version 1.03
   - Translated version of Japanese version 1.03
 
-# 機械学習システム セキュリティガイドライン Version 2.00
+# 機械学習システム セキュリティガイドライン Version 3.00
 
 本ガイドラインは以下で構成されています。
 
@@ -40,16 +37,23 @@ For more information, please see README-E.txt in this folder.
 3. 機械学習システム セキュリティガイドライン「付録：攻撃検知技術の概要」
    - MLSystemSecurityGuideline-Appendix.pdf
 
-4. 機械学習システム セキュリティガイドライン全て
-   - MLSystemSecurityGuideline-all.pdf
+4. 機械学習システム セキュリティガイドライン「補足：近年の動向（生成AI・法規則・他）」
+   - MLSystemSecurityGuideline-SupplementaryDocument.pdf
+
 
 また、utilフォルダには関連ツールとして以下を含めています。詳しくは
 それぞれのREADMEを御覧ください。
 
 - AIリスク問診ツール
 - AI影響分析ワークシート
+- AI影響分析ワークシート（AI品質、AI倫理、AIセキュリティ対応版）
 
 ・更新履歴
+
+Version 3.00(2025/07/4)
+   - 第3版として補足をリリース
+   - リスク分析編の誤記を修正
+   - AI影響分析ワークシート（AI品質、AI倫理、AIセキュリティ対応版）を新規で追加
 
 Version 2.00(2023/09/25)
    - 第2版β版の正式版としてリリース
